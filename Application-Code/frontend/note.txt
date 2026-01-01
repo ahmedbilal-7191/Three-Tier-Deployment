@@ -1,0 +1,1 @@
+ testing in minikube so thats why using nginx.conf as proxy pass to the backedn db okay
